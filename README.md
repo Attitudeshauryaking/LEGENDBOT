@@ -6,6 +6,33 @@
 
 
 
+
+
+
+
+<summary> • 💡 CREDITS 💞 • </summary>
+  
+## [👑🌹𒆜₳₮₮ł₮ɄĐɆ ₭ł₦₲𒆜🌹👑](Https://t.me/Alone_Shaurya_king)
+
+
+
+
+
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+
 <a href="https://t.me/Sweetkingdom1" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 
@@ -62,6 +89,4 @@
 
 
 
-  <summary> • 💡 CREDITS 💞 • </summary>
   
-## [ATTITUDE KING](Https://t.me/Alone_Shaurya_king)

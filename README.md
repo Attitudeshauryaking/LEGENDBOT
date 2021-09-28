@@ -1,32 +1,15 @@
 <h1 align="center">
-<b> 『†hê Lêɠêɳ̃dẞø†』 </b>
+<b> 『†hê ATTITUDE KING Lêɠêɳ̃dẞø†』 </b>
 </h1>
 
-[![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
+[![ATTITUDE KING LEGENDBOT](https://telegra.ph/file/b69745edc110a76387855-d46dc515d1eceb7378.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
 
 
-<p align="center">
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LEGEND-OS/LEGENDBOT?style=flat&logo=github" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logo=github" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LEGEND-OS/LEGENDBOT?color=success" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=yellow" /> </a>
-</p>
-<p align="center">
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/LEGEND-OS/LEGENDBOT?include_prereleases?style=flat&logo=github" /> </a>
-<a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/LEGEND-OS/LEGENDBOT" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
-</p>
-<p align="center">
-<a href="https://t.me/Legend_Userbot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
-<a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
-</p>
+
+<a href="https://t.me/Sweetkingdom1" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 
-## ⚡𝕷𝖊𝖌𝖊𝖓𝖉𝖆𝖗𝖞 ᴀғ 𝖑𝖊ɠêɳ̃dẞø✞︎⚡
+## ⚡ ATTITUDE KING 𝖑𝖊ɠêɳ̃dẞø✞︎⚡
 ## 𝓐 𝕾мοοτн 𝓐и∂ 𝕱αѕτєѕτ 𝖀sєяϐοt.
 
 
@@ -70,53 +53,20 @@
     - String will be saved in your Saved Message.
 
 
-<h1 align="center">TO HOST LEGEND LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
 
-<h2 align="center"> <a href="https://github.com/LEGEND-OS/LEGENDUSERBOT">⚡ 𝕷êgèñd𝕭øt ⚡</a></h2>
 
 ------------
 # Do U Face Any Problem Contact me Through Telegram 
 
-<a href="https://t.me/Legend_Userbot"><img src="https://img.shields.io/badge/Legend%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Sweetkingdom1"><img src="https://img.shields.io/badge/Legend%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-<a href="https://t.me/Its_LegendBoy"><img src="https://img.shields.io/badge/CREATOR%20ME-blue.svg?style=for-the-badge&logo=Telegram"></a>
-
-
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Its_LegendBoy)
+<a href="https://t.me/Alone_Shaurya_king"><img src="https://img.shields.io/badge/CREATOR%20ME-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
-<details>
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Alone_Shaurya_king)
 
-  <summary> • LICENSE • </summary>
 
-![](https://www.gnu.org/graphics/gplv3-or-later.png)
-
-LEGEND-OS
-
-Poject [LEGENDBOT](https://github.com/LEGEND-OS/LEGENDBOT) is free software: you can redistribute it and/or modify
-
-it under the terms of the GNU General Public License as published by
-
-the Free Software Foundation, either version 3 of the License, or
-
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-
-along with this program. If not, see <https://www.gnu.org/licenses/>.
-
-</details>
-
-<details>
 
   <summary> • 💡 CREDITS 💞 • </summary>
   
-• [LEGEND](https://github.com/LEGEND-OS)
+## [ATTITUDE KING](Https://t.me/Alone_Shaurya_king)

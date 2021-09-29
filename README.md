@@ -84,8 +84,8 @@
 
 <a href="https://t.me/Alone_Shaurya_king"><img src="https://img.shields.io/badge/CREATOR%20ME-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
-
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Alone_Shaurya_king)
+........
+## [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Alone_Shaurya_king)
 
 
 

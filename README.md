@@ -2,7 +2,6 @@
 <b> 『†hê ATTITUDE KING Lêɠêɳ̃dẞø†』 </b>
 </h1>
 
-[![ATTITUDE KING LEGENDBOT](https://telegra.ph/file/b69745edc110a76387855-d46dc515d1eceb7378.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
 
 
 
